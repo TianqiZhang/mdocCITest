@@ -1,0 +1,199 @@
+<Type Name="FontStretches" FullName="System.Windows.FontStretches">
+  <TypeSignature Language="C#" Value="public static class FontStretches" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi abstract sealed beforefieldinit FontStretches extends System.Object" />
+  <TypeSignature Language="DocId" Value="T:System.Windows.FontStretches" />
+  <AssemblyInfo>
+    <AssemblyName>PresentationCore</AssemblyName>
+    <AssemblyVersion>4.0.0.0</AssemblyVersion>
+  </AssemblyInfo>
+  <Base>
+    <BaseTypeName>System.Object</BaseTypeName>
+  </Base>
+  <Interfaces />
+  <Docs>
+    <summary>To be added.</summary>
+    <remarks>To be added.</remarks>
+  </Docs>
+  <Members>
+    <Member MemberName="Condensed">
+      <MemberSignature Language="C#" Value="public static System.Windows.FontStretch Condensed { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property valuetype System.Windows.FontStretch Condensed" />
+      <MemberSignature Language="DocId" Value="P:System.Windows.FontStretches.Condensed" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>PresentationCore</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Windows.FontStretch</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="Expanded">
+      <MemberSignature Language="C#" Value="public static System.Windows.FontStretch Expanded { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property valuetype System.Windows.FontStretch Expanded" />
+      <MemberSignature Language="DocId" Value="P:System.Windows.FontStretches.Expanded" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>PresentationCore</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Windows.FontStretch</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="ExtraCondensed">
+      <MemberSignature Language="C#" Value="public static System.Windows.FontStretch ExtraCondensed { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property valuetype System.Windows.FontStretch ExtraCondensed" />
+      <MemberSignature Language="DocId" Value="P:System.Windows.FontStretches.ExtraCondensed" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>PresentationCore</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Windows.FontStretch</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="ExtraExpanded">
+      <MemberSignature Language="C#" Value="public static System.Windows.FontStretch ExtraExpanded { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property valuetype System.Windows.FontStretch ExtraExpanded" />
+      <MemberSignature Language="DocId" Value="P:System.Windows.FontStretches.ExtraExpanded" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>PresentationCore</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Windows.FontStretch</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="Medium">
+      <MemberSignature Language="C#" Value="public static System.Windows.FontStretch Medium { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property valuetype System.Windows.FontStretch Medium" />
+      <MemberSignature Language="DocId" Value="P:System.Windows.FontStretches.Medium" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>PresentationCore</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Windows.FontStretch</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="Normal">
+      <MemberSignature Language="C#" Value="public static System.Windows.FontStretch Normal { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property valuetype System.Windows.FontStretch Normal" />
+      <MemberSignature Language="DocId" Value="P:System.Windows.FontStretches.Normal" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>PresentationCore</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Windows.FontStretch</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="SemiCondensed">
+      <MemberSignature Language="C#" Value="public static System.Windows.FontStretch SemiCondensed { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property valuetype System.Windows.FontStretch SemiCondensed" />
+      <MemberSignature Language="DocId" Value="P:System.Windows.FontStretches.SemiCondensed" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>PresentationCore</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Windows.FontStretch</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="SemiExpanded">
+      <MemberSignature Language="C#" Value="public static System.Windows.FontStretch SemiExpanded { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property valuetype System.Windows.FontStretch SemiExpanded" />
+      <MemberSignature Language="DocId" Value="P:System.Windows.FontStretches.SemiExpanded" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>PresentationCore</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Windows.FontStretch</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="UltraCondensed">
+      <MemberSignature Language="C#" Value="public static System.Windows.FontStretch UltraCondensed { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property valuetype System.Windows.FontStretch UltraCondensed" />
+      <MemberSignature Language="DocId" Value="P:System.Windows.FontStretches.UltraCondensed" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>PresentationCore</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Windows.FontStretch</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="UltraExpanded">
+      <MemberSignature Language="C#" Value="public static System.Windows.FontStretch UltraExpanded { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property valuetype System.Windows.FontStretch UltraExpanded" />
+      <MemberSignature Language="DocId" Value="P:System.Windows.FontStretches.UltraExpanded" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>PresentationCore</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Windows.FontStretch</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+  </Members>
+</Type>

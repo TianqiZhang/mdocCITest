@@ -1,0 +1,49 @@
+<Type Name="SubordinateTransaction" FullName="System.Transactions.SubordinateTransaction">
+  <TypeSignature Language="C#" Value="public sealed class SubordinateTransaction : System.Transactions.Transaction" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi serializable sealed beforefieldinit SubordinateTransaction extends System.Transactions.Transaction" />
+  <TypeSignature Language="DocId" Value="T:System.Transactions.SubordinateTransaction" />
+  <AssemblyInfo>
+    <AssemblyName>System.Transactions</AssemblyName>
+    <AssemblyVersion>2.0.5.0</AssemblyVersion>
+    <AssemblyVersion>4.0.0.0</AssemblyVersion>
+  </AssemblyInfo>
+  <AssemblyInfo>
+    <AssemblyName>netstandard</AssemblyName>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
+  </AssemblyInfo>
+  <Base>
+    <BaseTypeName>System.Transactions.Transaction</BaseTypeName>
+  </Base>
+  <Interfaces />
+  <Docs>
+    <summary>To be added.</summary>
+    <remarks>To be added.</remarks>
+  </Docs>
+  <Members>
+    <Member MemberName=".ctor">
+      <MemberSignature Language="C#" Value="public SubordinateTransaction (System.Transactions.IsolationLevel level, System.Transactions.ISimpleTransactionSuperior superior);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig specialname rtspecialname instance void .ctor(valuetype System.Transactions.IsolationLevel level, class System.Transactions.ISimpleTransactionSuperior superior) cil managed" />
+      <MemberSignature Language="DocId" Value="M:System.Transactions.SubordinateTransaction.#ctor(System.Transactions.IsolationLevel,System.Transactions.ISimpleTransactionSuperior)" />
+      <MemberType>Constructor</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Transactions</AssemblyName>
+        <AssemblyVersion>2.0.5.0</AssemblyVersion>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <AssemblyInfo>
+        <AssemblyName>netstandard</AssemblyName>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Parameters>
+        <Parameter Name="isoLevel" Type="System.Transactions.IsolationLevel" />
+        <Parameter Name="superior" Type="System.Transactions.ISimpleTransactionSuperior" />
+      </Parameters>
+      <Docs>
+        <param name="level">To be added.</param>
+        <param name="superior">To be added.</param>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+  </Members>
+</Type>

@@ -1,0 +1,135 @@
+<Type Name="ComparisonSettings" FullName="System.Management.ComparisonSettings">
+  <TypeSignature Language="C#" Value="public enum ComparisonSettings" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed ComparisonSettings extends System.Enum" />
+  <TypeSignature Language="DocId" Value="T:System.Management.ComparisonSettings" />
+  <AssemblyInfo>
+    <AssemblyName>System.Management</AssemblyName>
+    <AssemblyVersion>4.0.0.0</AssemblyVersion>
+  </AssemblyInfo>
+  <Base>
+    <BaseTypeName>System.Enum</BaseTypeName>
+  </Base>
+  <Attributes>
+    <Attribute>
+      <AttributeName>System.Flags</AttributeName>
+    </Attribute>
+  </Attributes>
+  <Docs>
+    <summary>To be added.</summary>
+    <remarks>To be added.</remarks>
+  </Docs>
+  <Members>
+    <Member MemberName="IgnoreCase">
+      <MemberSignature Language="C#" Value="IgnoreCase" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype System.Management.ComparisonSettings IgnoreCase = int32(16)" />
+      <MemberSignature Language="DocId" Value="F:System.Management.ComparisonSettings.IgnoreCase" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Management</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Management.ComparisonSettings</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="IgnoreClass">
+      <MemberSignature Language="C#" Value="IgnoreClass" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype System.Management.ComparisonSettings IgnoreClass = int32(8)" />
+      <MemberSignature Language="DocId" Value="F:System.Management.ComparisonSettings.IgnoreClass" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Management</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Management.ComparisonSettings</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="IgnoreDefaultValues">
+      <MemberSignature Language="C#" Value="IgnoreDefaultValues" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype System.Management.ComparisonSettings IgnoreDefaultValues = int32(4)" />
+      <MemberSignature Language="DocId" Value="F:System.Management.ComparisonSettings.IgnoreDefaultValues" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Management</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Management.ComparisonSettings</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="IgnoreFlavor">
+      <MemberSignature Language="C#" Value="IgnoreFlavor" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype System.Management.ComparisonSettings IgnoreFlavor = int32(32)" />
+      <MemberSignature Language="DocId" Value="F:System.Management.ComparisonSettings.IgnoreFlavor" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Management</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Management.ComparisonSettings</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="IgnoreObjectSource">
+      <MemberSignature Language="C#" Value="IgnoreObjectSource" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype System.Management.ComparisonSettings IgnoreObjectSource = int32(2)" />
+      <MemberSignature Language="DocId" Value="F:System.Management.ComparisonSettings.IgnoreObjectSource" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Management</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Management.ComparisonSettings</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="IgnoreQualifiers">
+      <MemberSignature Language="C#" Value="IgnoreQualifiers" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype System.Management.ComparisonSettings IgnoreQualifiers = int32(1)" />
+      <MemberSignature Language="DocId" Value="F:System.Management.ComparisonSettings.IgnoreQualifiers" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Management</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Management.ComparisonSettings</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="IncludeAll">
+      <MemberSignature Language="C#" Value="IncludeAll" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype System.Management.ComparisonSettings IncludeAll = int32(0)" />
+      <MemberSignature Language="DocId" Value="F:System.Management.ComparisonSettings.IncludeAll" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Management</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Management.ComparisonSettings</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+  </Members>
+</Type>
