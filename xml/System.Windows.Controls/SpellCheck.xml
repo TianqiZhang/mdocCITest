@@ -1,0 +1,214 @@
+<Type Name="SpellCheck" FullName="System.Windows.Controls.SpellCheck">
+  <TypeSignature Language="C#" Value="public sealed class SpellCheck" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed beforefieldinit SpellCheck extends System.Object" />
+  <TypeSignature Language="DocId" Value="T:System.Windows.Controls.SpellCheck" />
+  <AssemblyInfo>
+    <AssemblyName>PresentationFramework</AssemblyName>
+    <AssemblyVersion>4.0.0.0</AssemblyVersion>
+  </AssemblyInfo>
+  <Base>
+    <BaseTypeName>System.Object</BaseTypeName>
+  </Base>
+  <Interfaces />
+  <Docs>
+    <summary>To be added.</summary>
+    <remarks>To be added.</remarks>
+  </Docs>
+  <Members>
+    <Member MemberName="CustomDictionaries">
+      <MemberSignature Language="C#" Value="public System.Collections.IList CustomDictionaries { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance class System.Collections.IList CustomDictionaries" />
+      <MemberSignature Language="DocId" Value="P:System.Windows.Controls.SpellCheck.CustomDictionaries" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>PresentationFramework</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Collections.IList</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="CustomDictionariesProperty">
+      <MemberSignature Language="C#" Value="public static readonly System.Windows.DependencyProperty CustomDictionariesProperty;" />
+      <MemberSignature Language="ILAsm" Value=".field public static initonly class System.Windows.DependencyProperty CustomDictionariesProperty" />
+      <MemberSignature Language="DocId" Value="F:System.Windows.Controls.SpellCheck.CustomDictionariesProperty" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>PresentationFramework</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Windows.DependencyProperty</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="GetCustomDictionaries">
+      <MemberSignature Language="C#" Value="public static System.Collections.IList GetCustomDictionaries (System.Windows.Controls.Primitives.TextBoxBase textBoxBase);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Collections.IList GetCustomDictionaries(class System.Windows.Controls.Primitives.TextBoxBase textBoxBase) cil managed" />
+      <MemberSignature Language="DocId" Value="M:System.Windows.Controls.SpellCheck.GetCustomDictionaries(System.Windows.Controls.Primitives.TextBoxBase)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>PresentationFramework</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Collections.IList</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="textBoxBase" Type="System.Windows.Controls.Primitives.TextBoxBase" />
+      </Parameters>
+      <Docs>
+        <param name="textBoxBase">To be added.</param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="GetIsEnabled">
+      <MemberSignature Language="C#" Value="public static bool GetIsEnabled (System.Windows.Controls.Primitives.TextBoxBase textBoxBase);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig bool GetIsEnabled(class System.Windows.Controls.Primitives.TextBoxBase textBoxBase) cil managed" />
+      <MemberSignature Language="DocId" Value="M:System.Windows.Controls.SpellCheck.GetIsEnabled(System.Windows.Controls.Primitives.TextBoxBase)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>PresentationFramework</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Boolean</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="textBoxBase" Type="System.Windows.Controls.Primitives.TextBoxBase" />
+      </Parameters>
+      <Docs>
+        <param name="textBoxBase">To be added.</param>
+        <summary>To be added.</summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="IsEnabled">
+      <MemberSignature Language="C#" Value="public bool IsEnabled { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance bool IsEnabled" />
+      <MemberSignature Language="DocId" Value="P:System.Windows.Controls.SpellCheck.IsEnabled" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>PresentationFramework</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Boolean</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="IsEnabledProperty">
+      <MemberSignature Language="C#" Value="public static readonly System.Windows.DependencyProperty IsEnabledProperty;" />
+      <MemberSignature Language="ILAsm" Value=".field public static initonly class System.Windows.DependencyProperty IsEnabledProperty" />
+      <MemberSignature Language="DocId" Value="F:System.Windows.Controls.SpellCheck.IsEnabledProperty" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>PresentationFramework</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Windows.DependencyProperty</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="SetIsEnabled">
+      <MemberSignature Language="C#" Value="public static void SetIsEnabled (System.Windows.Controls.Primitives.TextBoxBase textBoxBase, bool value);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig void SetIsEnabled(class System.Windows.Controls.Primitives.TextBoxBase textBoxBase, bool value) cil managed" />
+      <MemberSignature Language="DocId" Value="M:System.Windows.Controls.SpellCheck.SetIsEnabled(System.Windows.Controls.Primitives.TextBoxBase,System.Boolean)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>PresentationFramework</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Void</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="textBoxBase" Type="System.Windows.Controls.Primitives.TextBoxBase" />
+        <Parameter Name="value" Type="System.Boolean" />
+      </Parameters>
+      <Docs>
+        <param name="textBoxBase">To be added.</param>
+        <param name="value">To be added.</param>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="SetSpellingReform">
+      <MemberSignature Language="C#" Value="public static void SetSpellingReform (System.Windows.Controls.Primitives.TextBoxBase textBoxBase, System.Windows.Controls.SpellingReform value);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig void SetSpellingReform(class System.Windows.Controls.Primitives.TextBoxBase textBoxBase, valuetype System.Windows.Controls.SpellingReform value) cil managed" />
+      <MemberSignature Language="DocId" Value="M:System.Windows.Controls.SpellCheck.SetSpellingReform(System.Windows.Controls.Primitives.TextBoxBase,System.Windows.Controls.SpellingReform)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>PresentationFramework</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Void</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="textBoxBase" Type="System.Windows.Controls.Primitives.TextBoxBase" />
+        <Parameter Name="value" Type="System.Windows.Controls.SpellingReform" />
+      </Parameters>
+      <Docs>
+        <param name="textBoxBase">To be added.</param>
+        <param name="value">To be added.</param>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="SpellingReform">
+      <MemberSignature Language="C#" Value="public System.Windows.Controls.SpellingReform SpellingReform { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance valuetype System.Windows.Controls.SpellingReform SpellingReform" />
+      <MemberSignature Language="DocId" Value="P:System.Windows.Controls.SpellCheck.SpellingReform" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>PresentationFramework</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Windows.Controls.SpellingReform</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="SpellingReformProperty">
+      <MemberSignature Language="C#" Value="public static readonly System.Windows.DependencyProperty SpellingReformProperty;" />
+      <MemberSignature Language="ILAsm" Value=".field public static initonly class System.Windows.DependencyProperty SpellingReformProperty" />
+      <MemberSignature Language="DocId" Value="F:System.Windows.Controls.SpellCheck.SpellingReformProperty" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>PresentationFramework</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Windows.DependencyProperty</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+  </Members>
+</Type>

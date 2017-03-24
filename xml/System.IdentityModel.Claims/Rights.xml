@@ -1,0 +1,55 @@
+<Type Name="Rights" FullName="System.IdentityModel.Claims.Rights">
+  <TypeSignature Language="C#" Value="public static class Rights" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi abstract sealed beforefieldinit Rights extends System.Object" />
+  <TypeSignature Language="DocId" Value="T:System.IdentityModel.Claims.Rights" />
+  <AssemblyInfo>
+    <AssemblyName>System.IdentityModel</AssemblyName>
+    <AssemblyVersion>4.0.0.0</AssemblyVersion>
+  </AssemblyInfo>
+  <Base>
+    <BaseTypeName>System.Object</BaseTypeName>
+  </Base>
+  <Interfaces />
+  <Docs>
+    <summary>To be added.</summary>
+    <remarks>To be added.</remarks>
+  </Docs>
+  <Members>
+    <Member MemberName="Identity">
+      <MemberSignature Language="C#" Value="public static string Identity { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property string Identity" />
+      <MemberSignature Language="DocId" Value="P:System.IdentityModel.Claims.Rights.Identity" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.IdentityModel</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.String</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="PossessProperty">
+      <MemberSignature Language="C#" Value="public static string PossessProperty { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property string PossessProperty" />
+      <MemberSignature Language="DocId" Value="P:System.IdentityModel.Claims.Rights.PossessProperty" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.IdentityModel</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.String</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+  </Members>
+</Type>

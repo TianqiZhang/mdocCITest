@@ -1,0 +1,71 @@
+<Type Name="TypedDataSetGenerator+GenerateOption" FullName="System.Data.Design.TypedDataSetGenerator+GenerateOption">
+  <TypeSignature Language="C#" Value="public enum TypedDataSetGenerator.GenerateOption" />
+  <TypeSignature Language="ILAsm" Value=".class nested public auto ansi sealed TypedDataSetGenerator/GenerateOption extends System.Enum" />
+  <TypeSignature Language="DocId" Value="T:System.Data.Design.TypedDataSetGenerator.GenerateOption" />
+  <AssemblyInfo>
+    <AssemblyName>System.Design</AssemblyName>
+    <AssemblyVersion>4.0.0.0</AssemblyVersion>
+  </AssemblyInfo>
+  <Base>
+    <BaseTypeName>System.Enum</BaseTypeName>
+  </Base>
+  <Attributes>
+    <Attribute>
+      <AttributeName>System.Flags</AttributeName>
+    </Attribute>
+  </Attributes>
+  <Docs>
+    <summary>To be added.</summary>
+    <remarks>To be added.</remarks>
+  </Docs>
+  <Members>
+    <Member MemberName="HierarchicalUpdate">
+      <MemberSignature Language="C#" Value="HierarchicalUpdate" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype System.Data.Design.TypedDataSetGenerator/GenerateOption HierarchicalUpdate = int32(1)" />
+      <MemberSignature Language="DocId" Value="F:System.Data.Design.TypedDataSetGenerator.GenerateOption.HierarchicalUpdate" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Design</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Data.Design.TypedDataSetGenerator+GenerateOption</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="LinqOverTypedDatasets">
+      <MemberSignature Language="C#" Value="LinqOverTypedDatasets" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype System.Data.Design.TypedDataSetGenerator/GenerateOption LinqOverTypedDatasets = int32(2)" />
+      <MemberSignature Language="DocId" Value="F:System.Data.Design.TypedDataSetGenerator.GenerateOption.LinqOverTypedDatasets" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Design</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Data.Design.TypedDataSetGenerator+GenerateOption</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="None">
+      <MemberSignature Language="C#" Value="None" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype System.Data.Design.TypedDataSetGenerator/GenerateOption None = int32(0)" />
+      <MemberSignature Language="DocId" Value="F:System.Data.Design.TypedDataSetGenerator.GenerateOption.None" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Design</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Data.Design.TypedDataSetGenerator+GenerateOption</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+  </Members>
+</Type>
