@@ -1,0 +1,61 @@
+<Type Name="NetworkChange" FullName="System.Net.NetworkInformation.NetworkChange">
+  <TypeSignature Language="C#" Value="public static class NetworkChange" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi abstract sealed beforefieldinit NetworkChange extends System.Object" />
+  <TypeSignature Language="DocId" Value="T:System.Net.NetworkInformation.NetworkChange" />
+  <AssemblyInfo>
+    <AssemblyName>System.Net.NetworkInformation</AssemblyName>
+    <AssemblyVersion>4.1.0.0</AssemblyVersion>
+  </AssemblyInfo>
+  <AssemblyInfo>
+    <AssemblyName>netstandard</AssemblyName>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
+  </AssemblyInfo>
+  <Base>
+    <BaseTypeName>System.Object</BaseTypeName>
+  </Base>
+  <Interfaces />
+  <Docs>
+    <summary>To be added.</summary>
+    <remarks>To be added.</remarks>
+  </Docs>
+  <Members>
+    <Member MemberName="NetworkAddressChanged">
+      <MemberSignature Language="C#" Value="public static event System.Net.NetworkInformation.NetworkAddressChangedEventHandler NetworkAddressChanged;" />
+      <MemberSignature Language="ILAsm" Value=".event class System.Net.NetworkInformation.NetworkAddressChangedEventHandler NetworkAddressChanged" />
+      <MemberSignature Language="DocId" Value="E:System.Net.NetworkInformation.NetworkChange.NetworkAddressChanged" />
+      <MemberType>Event</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Net.NetworkInformation</AssemblyName>
+        <AssemblyVersion>4.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <AssemblyInfo>
+        <AssemblyName>netstandard</AssemblyName>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Net.NetworkInformation.NetworkAddressChangedEventHandler</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="NetworkAvailabilityChanged">
+      <MemberSignature Language="C#" Value="public static event System.Net.NetworkInformation.NetworkAvailabilityChangedEventHandler NetworkAvailabilityChanged;" />
+      <MemberSignature Language="ILAsm" Value=".event class System.Net.NetworkInformation.NetworkAvailabilityChangedEventHandler NetworkAvailabilityChanged" />
+      <MemberSignature Language="DocId" Value="E:System.Net.NetworkInformation.NetworkChange.NetworkAvailabilityChanged" />
+      <MemberType>Event</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>netstandard</AssemblyName>
+        <AssemblyVersion>2.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Net.NetworkInformation.NetworkAvailabilityChangedEventHandler</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+  </Members>
+</Type>

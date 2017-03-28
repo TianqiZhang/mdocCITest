@@ -1,0 +1,82 @@
+<Type Name="SubsetMatchingMode" FullName="System.Speech.Recognition.SubsetMatchingMode">
+  <TypeSignature Language="C#" Value="public enum SubsetMatchingMode" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed SubsetMatchingMode extends System.Enum" />
+  <TypeSignature Language="DocId" Value="T:System.Speech.Recognition.SubsetMatchingMode" />
+  <AssemblyInfo>
+    <AssemblyName>System.Speech</AssemblyName>
+    <AssemblyVersion>4.0.0.0</AssemblyVersion>
+  </AssemblyInfo>
+  <Base>
+    <BaseTypeName>System.Enum</BaseTypeName>
+  </Base>
+  <Docs>
+    <summary>To be added.</summary>
+    <remarks>To be added.</remarks>
+  </Docs>
+  <Members>
+    <Member MemberName="OrderedSubset">
+      <MemberSignature Language="C#" Value="OrderedSubset" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype System.Speech.Recognition.SubsetMatchingMode OrderedSubset = int32(1)" />
+      <MemberSignature Language="DocId" Value="F:System.Speech.Recognition.SubsetMatchingMode.OrderedSubset" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Speech</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Speech.Recognition.SubsetMatchingMode</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="OrderedSubsetContentRequired">
+      <MemberSignature Language="C#" Value="OrderedSubsetContentRequired" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype System.Speech.Recognition.SubsetMatchingMode OrderedSubsetContentRequired = int32(3)" />
+      <MemberSignature Language="DocId" Value="F:System.Speech.Recognition.SubsetMatchingMode.OrderedSubsetContentRequired" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Speech</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Speech.Recognition.SubsetMatchingMode</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="Subsequence">
+      <MemberSignature Language="C#" Value="Subsequence" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype System.Speech.Recognition.SubsetMatchingMode Subsequence = int32(0)" />
+      <MemberSignature Language="DocId" Value="F:System.Speech.Recognition.SubsetMatchingMode.Subsequence" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Speech</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Speech.Recognition.SubsetMatchingMode</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="SubsequenceContentRequired">
+      <MemberSignature Language="C#" Value="SubsequenceContentRequired" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype System.Speech.Recognition.SubsetMatchingMode SubsequenceContentRequired = int32(2)" />
+      <MemberSignature Language="DocId" Value="F:System.Speech.Recognition.SubsetMatchingMode.SubsequenceContentRequired" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Speech</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Speech.Recognition.SubsetMatchingMode</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+  </Members>
+</Type>

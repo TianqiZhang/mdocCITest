@@ -1,0 +1,187 @@
+<Type Name="DesignTimeParseData" FullName="System.Web.UI.DesignTimeParseData">
+  <TypeSignature Language="C#" Value="public sealed class DesignTimeParseData" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed beforefieldinit DesignTimeParseData extends System.Object" />
+  <TypeSignature Language="DocId" Value="T:System.Web.UI.DesignTimeParseData" />
+  <AssemblyInfo>
+    <AssemblyName>System.Web</AssemblyName>
+    <AssemblyVersion>4.0.0.0</AssemblyVersion>
+  </AssemblyInfo>
+  <Base>
+    <BaseTypeName>System.Object</BaseTypeName>
+  </Base>
+  <Interfaces />
+  <Docs>
+    <summary>To be added.</summary>
+    <remarks>To be added.</remarks>
+  </Docs>
+  <Members>
+    <Member MemberName=".ctor">
+      <MemberSignature Language="C#" Value="public DesignTimeParseData (System.ComponentModel.Design.IDesignerHost designerHost, string parseText);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig specialname rtspecialname instance void .ctor(class System.ComponentModel.Design.IDesignerHost designerHost, string parseText) cil managed" />
+      <MemberSignature Language="DocId" Value="M:System.Web.UI.DesignTimeParseData.#ctor(System.ComponentModel.Design.IDesignerHost,System.String)" />
+      <MemberType>Constructor</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Web</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Parameters>
+        <Parameter Name="designerHost" Type="System.ComponentModel.Design.IDesignerHost" />
+        <Parameter Name="parseText" Type="System.String" />
+      </Parameters>
+      <Docs>
+        <param name="designerHost">To be added.</param>
+        <param name="parseText">To be added.</param>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName=".ctor">
+      <MemberSignature Language="C#" Value="public DesignTimeParseData (System.ComponentModel.Design.IDesignerHost designerHost, string parseText, string filter);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig specialname rtspecialname instance void .ctor(class System.ComponentModel.Design.IDesignerHost designerHost, string parseText, string filter) cil managed" />
+      <MemberSignature Language="DocId" Value="M:System.Web.UI.DesignTimeParseData.#ctor(System.ComponentModel.Design.IDesignerHost,System.String,System.String)" />
+      <MemberType>Constructor</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Web</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Parameters>
+        <Parameter Name="designerHost" Type="System.ComponentModel.Design.IDesignerHost" />
+        <Parameter Name="parseText" Type="System.String" />
+        <Parameter Name="filter" Type="System.String" />
+      </Parameters>
+      <Docs>
+        <param name="designerHost">To be added.</param>
+        <param name="parseText">To be added.</param>
+        <param name="filter">To be added.</param>
+        <summary>To be added.</summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="DataBindingHandler">
+      <MemberSignature Language="C#" Value="public EventHandler DataBindingHandler { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance class System.EventHandler DataBindingHandler" />
+      <MemberSignature Language="DocId" Value="P:System.Web.UI.DesignTimeParseData.DataBindingHandler" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Web</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.EventHandler</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="DesignerHost">
+      <MemberSignature Language="C#" Value="public System.ComponentModel.Design.IDesignerHost DesignerHost { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance class System.ComponentModel.Design.IDesignerHost DesignerHost" />
+      <MemberSignature Language="DocId" Value="P:System.Web.UI.DesignTimeParseData.DesignerHost" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Web</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.ComponentModel.Design.IDesignerHost</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="DocumentUrl">
+      <MemberSignature Language="C#" Value="public string DocumentUrl { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance string DocumentUrl" />
+      <MemberSignature Language="DocId" Value="P:System.Web.UI.DesignTimeParseData.DocumentUrl" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Web</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.String</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="Filter">
+      <MemberSignature Language="C#" Value="public string Filter { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance string Filter" />
+      <MemberSignature Language="DocId" Value="P:System.Web.UI.DesignTimeParseData.Filter" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Web</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.String</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="ParseText">
+      <MemberSignature Language="C#" Value="public string ParseText { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance string ParseText" />
+      <MemberSignature Language="DocId" Value="P:System.Web.UI.DesignTimeParseData.ParseText" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Web</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.String</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="ShouldApplyTheme">
+      <MemberSignature Language="C#" Value="public bool ShouldApplyTheme { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance bool ShouldApplyTheme" />
+      <MemberSignature Language="DocId" Value="P:System.Web.UI.DesignTimeParseData.ShouldApplyTheme" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Web</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Boolean</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="UserControlRegisterEntries">
+      <MemberSignature Language="C#" Value="public System.Collections.ICollection UserControlRegisterEntries { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance class System.Collections.ICollection UserControlRegisterEntries" />
+      <MemberSignature Language="DocId" Value="P:System.Web.UI.DesignTimeParseData.UserControlRegisterEntries" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Web</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Collections.ICollection</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+  </Members>
+</Type>

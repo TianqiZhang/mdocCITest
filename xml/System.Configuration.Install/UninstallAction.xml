@@ -1,0 +1,50 @@
+<Type Name="UninstallAction" FullName="System.Configuration.Install.UninstallAction">
+  <TypeSignature Language="C#" Value="public enum UninstallAction" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed UninstallAction extends System.Enum" />
+  <TypeSignature Language="DocId" Value="T:System.Configuration.Install.UninstallAction" />
+  <AssemblyInfo>
+    <AssemblyName>System.Configuration.Install</AssemblyName>
+    <AssemblyVersion>4.0.0.0</AssemblyVersion>
+  </AssemblyInfo>
+  <Base>
+    <BaseTypeName>System.Enum</BaseTypeName>
+  </Base>
+  <Docs>
+    <summary>To be added.</summary>
+    <remarks>To be added.</remarks>
+  </Docs>
+  <Members>
+    <Member MemberName="NoAction">
+      <MemberSignature Language="C#" Value="NoAction" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype System.Configuration.Install.UninstallAction NoAction = int32(1)" />
+      <MemberSignature Language="DocId" Value="F:System.Configuration.Install.UninstallAction.NoAction" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Configuration.Install</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Configuration.Install.UninstallAction</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+    <Member MemberName="Remove">
+      <MemberSignature Language="C#" Value="Remove" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype System.Configuration.Install.UninstallAction Remove = int32(0)" />
+      <MemberSignature Language="DocId" Value="F:System.Configuration.Install.UninstallAction.Remove" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>System.Configuration.Install</AssemblyName>
+        <AssemblyVersion>4.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Configuration.Install.UninstallAction</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>To be added.</summary>
+      </Docs>
+    </Member>
+  </Members>
+</Type>
